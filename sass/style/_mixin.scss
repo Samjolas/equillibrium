@@ -1,0 +1,6 @@
+@use 'variables' as a;
+
+@mixin hover {
+  cursor: pointer;
+  color: a.$color-main;
+}
