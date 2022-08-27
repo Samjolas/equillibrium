@@ -65,6 +65,8 @@ I learnt that as a web deveoper you need to be very creative with your work, the
 
 - I learnt the usefulness of using * {margin: 0; padding: 0;}; I created an unorderlist and notice the list had a default margin, have alot of trials I noticed that the issu was I did not had a default margin and padding at the beginning.
 
+- After the feedback from a Frontend Mentor I decided to try out the the hover state using the pseudo class ::after and I achieved it. This was a great task. 
+
 ### Continued development
 
 - Keep improving my css skills and also my JavaScript skills. 
