@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Cruise Ride - GITHUB](https://github.com/Samjolas/equillibrium)
-- Live Site URL: [Add live site URL here](https://samjolas.github.io/equillibrium)
+- Live Site URL: [Cruise Ride - LIVE](https://samjolas.github.io/equillibrium)
 
 ## My process
 - Evaluate the design 
