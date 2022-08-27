@@ -1,4 +1,10 @@
 @use 'variables' as a;
+
+/* Remove default margin */
+* {
+  margin: 0;
+  padding: 0;
+}
 /* Box sizing rules */
 *,
 *::before,
@@ -6,14 +12,6 @@
   box-sizing: border-box;
 }
 
-/* Remove default margin */
-body,
-h1,
-h2,
-p,
-figure {
-  margin: 0;
-}
 
 /* headings whould be Capitalise */ 
 h1, h2, h3, h4, h5, h6 {

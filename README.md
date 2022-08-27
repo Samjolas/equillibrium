@@ -63,6 +63,8 @@ Users should be able to:
 After so many trial I decided to use the filter property and I achieved a similar result. 
 I learnt that as a web deveoper you need to be very creative with your work, the ability to be able to predict how an object is been style is one skills I should have as a css developer. 
 
+- I learnt the usefulness of using * {margin: 0; padding: 0;}; I created an unorderlist and notice the list had a default margin, have alot of trials I noticed that the issu was I did not had a default margin and padding at the beginning.
+
 ### Continued development
 
 - Keep improving my css skills and also my JavaScript skills. 
